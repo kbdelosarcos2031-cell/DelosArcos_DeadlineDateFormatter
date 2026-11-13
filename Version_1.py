@@ -5,7 +5,7 @@ month = input("Enter month: ")
 day = input("Enter day: ")
 
 #this is the part where the input is simply formatted
-print("Formatted Output:")
+print("\nFormatted Output:")
 print("Event:", event_title)
 print("Year:", year)
 print("Month:", month)
