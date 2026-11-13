@@ -12,7 +12,7 @@ event_date = date(year, month, day)
 
 #this will print the correctly formatted and structured inputs.
 print("\nFormatted Output:")
-print("Event:", title.upper())
+print("Event:", event_title.upper())
 print("Date:", event_date.strftime("%B %d, %Y"))
 print("Year:", event_date.year)
 print("Month:", event_date.strftime("%B"))
